@@ -1,3 +1,5 @@
+//create two classes fruit and basket.Attributes of class fruits are 'ch' of character type ,num of integer type.Methods of class basket are getdata and showdata 
+//class fruit declares class basket as a friend class wap to depict this relationship.
 #include<iostream>
 using namespace std;
 class fruit
